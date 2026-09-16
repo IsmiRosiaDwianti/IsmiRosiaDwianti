@@ -1,16 +1,39 @@
-# Hi, I'm Ismi Rosia Dwianti 👋
+<!-- HEADER -->
 
-🎓 **Internet Engineering Technology Student**
-💻 **Web Development | Python | IoT | Networking**
-📍 Politeknik Negeri Lampung
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Ismi%20Rosia%20Dwianti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h3 align="center">
+  Internet Engineering Technology Student
+</h3>
+
+<p align="center">
+  💻 Web Development &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 🔌 IoT &nbsp; | &nbsp; 🌐 Networking
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ismi-rosia-dwianti-00051337a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ismirosia66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
-I'm a 7th-semester **Internet Engineering Technology** student at **Politeknik Negeri Lampung** with an interest in **web development, networking, cloud computing, IoT, and Artificial Intelligence**.
+🎓 I'm a 7th-semester **Internet Engineering Technology** student at **Politeknik Negeri Lampung**.
+
+I'm interested in **web development, networking, cloud computing, IoT, and Artificial Intelligence**.
 
 I have experience working with **Python, Django, HTML, CSS, JavaScript, Laravel, and PostgreSQL**, as well as networking and server tools such as **Cisco Packet Tracer, MikroTik, VirtualBox, and Linux**.
 
-I'm interested in developing practical technology solutions, especially projects that combine **web systems, IoT, automation, and data processing**.
+I enjoy building practical technology solutions, especially projects that combine **web systems, IoT, automation, and data processing**.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,13 +43,13 @@ I'm interested in developing practical technology solutions, especially projects
   <img src="https://skillicons.dev/icons?i=python,django,php,laravel,html,css,js" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,docker,linux" />
 </p>
 
-### 🌐 Networking & IoT
+### 🔌 IoT
 
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
@@ -34,6 +57,7 @@ I'm interested in developing practical technology solutions, especially projects
 
 **Networking:** Cisco Packet Tracer · MikroTik · FTTH · LAN · Routing · Switching
 
+---
 
 ## 🚀 Featured Projects
 
@@ -43,7 +67,7 @@ An IoT-based automatic lighting system using the **BH1750 light intensity sensor
 
 The system can be monitored through a web interface and controlled through an application.
 
-**Tech:** ESP8266 · BH1750 · Python · Django · Machine Learning
+**Tech:** `ESP8266` `BH1750` `Python` `Django` `Machine Learning`
 
 ---
 
@@ -53,7 +77,7 @@ An IoT-based smoke detection and monitoring system using **ESP32 and MQ-2 sensor
 
 The system sends sensor readings to a web-based monitoring system through an API and provides different conditions based on sensor values.
 
-**Tech:** ESP32 · MQ-2 · Laravel · PHP · MySQL · REST API
+**Tech:** `ESP32` `MQ-2` `Laravel` `PHP` `MySQL` `REST API`
 
 ---
 
@@ -61,9 +85,9 @@ The system sends sensor readings to a web-based monitoring system through an API
 
 A web-based monitoring system developed to monitor the availability of digital services at **Diskominfo Provinsi Lampung**.
 
-The system monitors service conditions and detects **UP, WARNING, and DOWN** states, while also monitoring service performance and SSL certificate status.
+The system monitors service conditions such as **UP, WARNING, and DOWN**, while also monitoring service performance and SSL certificate status.
 
-**Tech:** Laravel · PHP · MySQL · REST API · Monitoring
+**Tech:** `Laravel` `PHP` `MySQL` `REST API` `Monitoring`
 
 ---
 
@@ -71,9 +95,9 @@ The system monitors service conditions and detects **UP, WARNING, and DOWN** sta
 
 A web-based alumni management system designed to manage alumni data in a structured way.
 
-The system uses Django as the backend and PostgreSQL for data management.
+The system uses **Django** as the backend and **PostgreSQL** for data management.
 
-**Tech:** Python · Django · PostgreSQL · HTML · CSS · Bootstrap · AJAX
+**Tech:** `Python` `Django` `PostgreSQL` `HTML` `CSS` `Bootstrap` `AJAX`
 
 ---
 
@@ -83,7 +107,7 @@ An Artificial Intelligence project for detecting potential phishing emails.
 
 The project includes data processing, analysis, model training, and testing using Python.
 
-**Tech:** Python · Artificial Intelligence · Google Colab
+**Tech:** `Python` `Artificial Intelligence` `Google Colab`
 
 ---
 
@@ -93,44 +117,66 @@ A practical networking project focused on **Fiber To The Home (FTTH)** implement
 
 The project covers the basic structure of fiber optic networks, network topology, components, and connection flow from the central device to the end user.
 
-**Tech:** Fiber Optic · FTTH · Networking
+**Tech:** `Fiber Optic` `FTTH` `Networking`
 
+---
 
 ## 📚 Currently Learning
 
-* 🐍 Python & Django
-* 🌐 Backend Development
-* 🔗 REST API
-* 🗄️ Database Management
-* 🤖 Artificial Intelligence
-* 🔌 IoT Integration
-* ☁️ Cloud Computing
-* 🔧 Git & GitHub
+<p align="center">
 
+🐍 **Python & Django**
+🔗 **REST API**
+🗄️ **Database Management**
+🤖 **Artificial Intelligence**
+🔌 **IoT Integration**
+☁️ **Cloud Computing**
+🔧 **Git & GitHub**
+
+</p>
+
+---
 
 ## 🎓 Education
 
-### Politeknik Negeri Lampung
+### 🏫 Politeknik Negeri Lampung
 
 **D4 Teknologi Rekayasa Internet**
 2023 – Present
 
-### SMK Negeri 4 Bandar Lampung
+### 🏫 SMK Negeri 4 Bandar Lampung
 
 **Rekayasa Perangkat Lunak (RPL)**
 2020 – 2023
 
+---
 
 ## 📜 Certifications
 
-* **Code Generation and Optimization Using IBM Granite** — IBM SkillsBuild
-* **CCNA: Introduction to Networks** — Cisco Networking Academy
-* **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy
-* **CCNA: Enterprise Networking, Security, and Automation** — Cisco Networking Academy
-* **AWS Academy Graduate – Cloud Web Application Builder** — AWS Academy
-* **AWS Academy Graduate – Cloud Foundations** — AWS Academy
-* **AWS Academy Graduate – Cloud Architecting** — AWS Academy
+🏆 **Code Generation and Optimization Using IBM Granite** — IBM SkillsBuild
 
+🌐 **CCNA: Introduction to Networks** — Cisco Networking Academy
+
+🌐 **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy
+
+🌐 **CCNA: Enterprise Networking, Security, and Automation** — Cisco Networking Academy
+
+☁️ **AWS Academy Graduate – Cloud Web Application Builder** — AWS Academy
+
+☁️ **AWS Academy Graduate – Cloud Foundations** — AWS Academy
+
+☁️ **AWS Academy Graduate – Cloud Architecting** — AWS Academy
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmiRosiaDwianti&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmiRosiaDwianti&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
 
 ## 📫 Let's Connect
 
@@ -146,7 +192,12 @@ The project covers the basic structure of fiber optic networks, network topology
   </a>
 </p>
 
+---
 
 <p align="center">
-   Thanks for visiting my GitHub profile!
+  ✨ Thanks for visiting my GitHub profile! ✨
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=100&section=footer"/>
 </p>
