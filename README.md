@@ -128,16 +128,19 @@ The project covers the basic structure of fiber optic networks, network topology
 ## 📚 Currently Learning
 
 <p align="center">
-
-🐍 **Python & Django**
-🔗 **REST API**
-🗄️ **Database Management**
-🤖 **Artificial Intelligence**
-🔌 **IoT Integration**
-☁️ **Cloud Computing**
-🔧 **Git & GitHub**
-
+  <img src="https://skillicons.dev/icons?i=python,django,postman,mysql,ai,arduino,aws,git,github" />
 </p>
+
+<p align="center">
+  <b>Python & Django</b> &nbsp; | &nbsp;
+  <b>REST API</b> &nbsp; | &nbsp;
+  <b>Database Management</b> &nbsp; | &nbsp;
+  <b>Artificial Intelligence</b> &nbsp; | &nbsp;
+  <b>IoT Integration</b> &nbsp; | &nbsp;
+  <b>Cloud Computing</b> &nbsp; | &nbsp;
+  <b>Git & GitHub</b>
+</p>
+
 
 
 
