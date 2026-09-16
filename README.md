@@ -32,7 +32,6 @@
 🎓 I'm a 7th-semester **Internet Engineering Technology** student at **Politeknik Negeri Lampung**.
 I'm interested in **web development, networking, cloud computing, IoT, and Artificial Intelligence**.
 I have experience working with **Python, Django, HTML, CSS, JavaScript, Laravel, and PostgreSQL**, as well as networking and server tools such as **Cisco Packet Tracer, MikroTik, VirtualBox, and Linux**.
-
 I enjoy building practical technology solutions, especially projects that combine **web systems, IoT, automation, and data processing**.
 
 
@@ -112,6 +111,8 @@ The project covers the basic structure of fiber optic networks, network topology
 
 **Tech:** `Fiber Optic` `FTTH` `Networking`
 
+
+
 ## 📚 Currently Learning
 
 <p align="center">
@@ -128,6 +129,8 @@ The project covers the basic structure of fiber optic networks, network topology
   <b>Git & GitHub</b>
 </p>
 
+
+
 ## 🎓 Education
 
 ### 🏫 Politeknik Negeri Lampung
@@ -138,6 +141,8 @@ The project covers the basic structure of fiber optic networks, network topology
 **Rekayasa Perangkat Lunak (RPL)**
 2020 – 2023
 
+
+
 ## 📜 Certifications
 
 🏆 **Code Generation and Optimization Using IBM Granite** — IBM SkillsBuild
@@ -147,6 +152,7 @@ The project covers the basic structure of fiber optic networks, network topology
 ☁️ **AWS Academy Graduate – Cloud Web Application Builder** — AWS Academy
 ☁️ **AWS Academy Graduate – Cloud Foundations** — AWS Academy
 ☁️ **AWS Academy Graduate – Cloud Architecting** — AWS Academy
+
 
 
 ## 📫 Let's Connect
