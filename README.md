@@ -4,8 +4,6 @@
 💻 **Web Development | Python | IoT | Networking**
 📍 Politeknik Negeri Lampung
 
----
-
 ## 👩‍💻 About Me
 
 I'm a 7th-semester **Internet Engineering Technology** student at **Politeknik Negeri Lampung** with an interest in **web development, networking, cloud computing, IoT, and Artificial Intelligence**.
