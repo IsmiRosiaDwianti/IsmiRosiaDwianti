@@ -136,8 +136,6 @@ The project covers the basic structure of fiber optic networks, network topology
 </p>
 
 
-
-
 ## 🎓 Education
 
 ### 🏫 Politeknik Negeri Lampung
@@ -174,6 +172,3 @@ The project covers the basic structure of fiber optic networks, network topology
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=100&section=footer"/>
 </p>
-ini perbaiki biar g ai banget latar belakang nya tambahin baground skyblue 
-jnagn ubah tata letak ataupun garis nya tapi hapus saja emoticon yang tidak diperlukan
-ini kekny di pendekin aja deh bagian sertifikat apus aja g si kn udah ada creedly
