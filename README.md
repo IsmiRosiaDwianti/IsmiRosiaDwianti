@@ -65,7 +65,7 @@ I enjoy building practical technology solutions, especially projects that combin
 
 ## 🚀 Featured Projects
 
-### 💡 SmartGlow AI — Smart Lighting System
+### SmartGlow AI — Smart Lighting System
 
 An IoT-based automatic lighting system using the **BH1750 light intensity sensor** to adjust lighting based on environmental conditions.
 
@@ -75,7 +75,7 @@ The system can be monitored through a web interface and controlled through an ap
 
 ---
 
-### 🔥 Smoke Monitoring System
+### Smoke Monitoring System
 
 An IoT-based smoke detection and monitoring system using **ESP32 and MQ-2 sensor**.
 
@@ -85,7 +85,7 @@ The system sends sensor readings to a web-based monitoring system through an API
 
 ---
 
-### 🌐 Service Monitoring System
+### Service Monitoring System
 
 A web-based monitoring system developed to monitor the availability of digital services at **Diskominfo Provinsi Lampung**.
 
@@ -95,7 +95,7 @@ The system monitors service conditions such as **UP, WARNING, and DOWN**, while 
 
 ---
 
-### 🎓 Alumni Management System
+### Alumni Management System
 
 A web-based alumni management system designed to manage alumni data in a structured way.
 
@@ -105,7 +105,7 @@ The system uses **Django** as the backend and **PostgreSQL** for data management
 
 ---
 
-### 🤖 Phishing Email Detection
+### Phishing Email Detection
 
 An Artificial Intelligence project for detecting potential phishing emails.
 
@@ -115,7 +115,7 @@ The project includes data processing, analysis, model training, and testing usin
 
 ---
 
-### 🌐 FTTH Network Implementation
+### FTTH Network Implementation
 
 A practical networking project focused on **Fiber To The Home (FTTH)** implementation.
 
