@@ -9,7 +9,11 @@
 </h3>
 
 <p align="center">
-  💻 Web Development &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 🔌 IoT &nbsp; | &nbsp; 🌐 Networking
+  💻 Web Development &nbsp; | &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python
+  &nbsp; | &nbsp;
+  🔌 IoT &nbsp; | &nbsp;
+  🌐 Networking
 </p>
 
 <p align="center">
@@ -21,7 +25,7 @@
   </a>
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -33,7 +37,7 @@ I have experience working with **Python, Django, HTML, CSS, JavaScript, Laravel,
 
 I enjoy building practical technology solutions, especially projects that combine **web systems, IoT, automation, and data processing**.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +61,7 @@ I enjoy building practical technology solutions, especially projects that combin
 
 **Networking:** Cisco Packet Tracer · MikroTik · FTTH · LAN · Routing · Switching
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -119,7 +123,7 @@ The project covers the basic structure of fiber optic networks, network topology
 
 **Tech:** `Fiber Optic` `FTTH` `Networking`
 
----
+
 
 ## 📚 Currently Learning
 
@@ -135,7 +139,7 @@ The project covers the basic structure of fiber optic networks, network topology
 
 </p>
 
----
+
 
 ## 🎓 Education
 
@@ -149,7 +153,7 @@ The project covers the basic structure of fiber optic networks, network topology
 **Rekayasa Perangkat Lunak (RPL)**
 2020 – 2023
 
----
+
 
 ## 📜 Certifications
 
@@ -167,16 +171,6 @@ The project covers the basic structure of fiber optic networks, network topology
 
 ☁️ **AWS Academy Graduate – Cloud Architecting** — AWS Academy
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmiRosiaDwianti&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmiRosiaDwianti&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
