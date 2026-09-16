@@ -33,7 +33,7 @@ I'm interested in developing practical technology solutions, especially projects
 ### 🌐 Networking & IoT
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 **Networking:** Cisco Packet Tracer · MikroTik · FTTH · LAN · Routing · Switching
