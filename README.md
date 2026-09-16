@@ -109,8 +109,6 @@ A practical networking project focused on **Fiber To The Home (FTTH)** implement
 The project covers the basic structure of fiber optic networks, network topology, components, and connection flow from the central device to the end user.
 **Tech:** `Fiber Optic` `FTTH` `Networking`
 
-
-
 ## 📚 Currently Learning
 
 <p align="center">
@@ -127,37 +125,24 @@ The project covers the basic structure of fiber optic networks, network topology
   <b>Git & GitHub</b>
 </p>
 
-
-
-
 ## 🎓 Education
 
 ### 🏫 Politeknik Negeri Lampung
-
 **D4 Teknologi Rekayasa Internet**
 2023 – Present
 
 ### 🏫 SMK Negeri 4 Bandar Lampung
-
 **Rekayasa Perangkat Lunak (RPL)**
 2020 – 2023
-
-
 
 ## 📜 Certifications
 
 🏆 **Code Generation and Optimization Using IBM Granite** — IBM SkillsBuild
-
 🌐 **CCNA: Introduction to Networks** — Cisco Networking Academy
-
 🌐 **CCNA: Switching, Routing, and Wireless Essentials** — Cisco Networking Academy
-
 🌐 **CCNA: Enterprise Networking, Security, and Automation** — Cisco Networking Academy
-
 ☁️ **AWS Academy Graduate – Cloud Web Application Builder** — AWS Academy
-
 ☁️ **AWS Academy Graduate – Cloud Foundations** — AWS Academy
-
 ☁️ **AWS Academy Graduate – Cloud Architecting** — AWS Academy
 
 
@@ -175,8 +160,6 @@ The project covers the basic structure of fiber optic networks, network topology
   </a>
 </p>
 
----
-
 <p align="center">
   ✨ Thanks for visiting my GitHub profile! ✨
 </p>
@@ -184,6 +167,3 @@ The project covers the basic structure of fiber optic networks, network topology
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=100&section=footer"/>
 </p>
-ini perbaiki biar g ai banget latar belakang nya tambahin baground skyblue 
-jnagn ubah tata letak ataupun garis nya tapi hapus saja emoticon yang tidak diperlukan
-ini kekny di pendekin aja deh bagian sertifikat apus aja g si kn udah ada creedly
