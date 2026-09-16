@@ -91,6 +91,7 @@ The system monitors service conditions such as **UP, WARNING, and DOWN**, while 
 
 A web-based alumni management system designed to manage alumni data in a structured way.
 The system uses **Django** as the backend and **PostgreSQL** for data management.
+
 **Tech:** `Python` `Django` `PostgreSQL` `HTML` `CSS` `Bootstrap` `AJAX`
 
 ---
@@ -99,6 +100,7 @@ The system uses **Django** as the backend and **PostgreSQL** for data management
 
 An Artificial Intelligence project for detecting potential phishing emails.
 The project includes data processing, analysis, model training, and testing using Python.
+
 **Tech:** `Python` `Artificial Intelligence` `Google Colab`
 
 ---
@@ -107,6 +109,7 @@ The project includes data processing, analysis, model training, and testing usin
 
 A practical networking project focused on **Fiber To The Home (FTTH)** implementation.
 The project covers the basic structure of fiber optic networks, network topology, components, and connection flow from the central device to the end user.
+
 **Tech:** `Fiber Optic` `FTTH` `Networking`
 
 ## 📚 Currently Learning
