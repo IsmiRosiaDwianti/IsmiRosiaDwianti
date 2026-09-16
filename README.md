@@ -100,16 +100,6 @@ The project covers the basic structure of fiber optic networks, network topology
 
 **Tech:** Fiber Optic · FTTH · Networking
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmiRosiaDwianti&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmiRosiaDwianti&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 📚 Currently Learning
 
