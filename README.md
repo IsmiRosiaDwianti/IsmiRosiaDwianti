@@ -70,6 +70,7 @@ I enjoy building practical technology solutions, especially projects that combin
 An IoT-based automatic lighting system using the **BH1750 light intensity sensor** to adjust lighting based on environmental conditions.
 The system can be monitored through a web interface and controlled through an application.
 **Tech:** `ESP8266` `BH1750` `Python` `Django` `Machine Learning`
+
 ---
 
 ### Smoke Monitoring System
@@ -77,6 +78,7 @@ The system can be monitored through a web interface and controlled through an ap
 An IoT-based smoke detection and monitoring system using **ESP32 and MQ-2 sensor**.
 The system sends sensor readings to a web-based monitoring system through an API and provides different conditions based on sensor values.
 **Tech:** `ESP32` `MQ-2` `Laravel` `PHP` `MySQL` `REST API`
+
 ---
 
 ### Service Monitoring System
@@ -84,6 +86,7 @@ The system sends sensor readings to a web-based monitoring system through an API
 A web-based monitoring system developed to monitor the availability of digital services at **Diskominfo Provinsi Lampung**.
 The system monitors service conditions such as **UP, WARNING, and DOWN**, while also monitoring service performance and SSL certificate status.
 **Tech:** `Laravel` `PHP` `MySQL` `REST API` `Monitoring`
+
 ---
 
 ### Alumni Management System
@@ -91,6 +94,7 @@ The system monitors service conditions such as **UP, WARNING, and DOWN**, while 
 A web-based alumni management system designed to manage alumni data in a structured way.
 The system uses **Django** as the backend and **PostgreSQL** for data management.
 **Tech:** `Python` `Django` `PostgreSQL` `HTML` `CSS` `Bootstrap` `AJAX`
+
 ---
 
 ### Phishing Email Detection
@@ -98,6 +102,7 @@ The system uses **Django** as the backend and **PostgreSQL** for data management
 An Artificial Intelligence project for detecting potential phishing emails.
 The project includes data processing, analysis, model training, and testing using Python.
 **Tech:** `Python` `Artificial Intelligence` `Google Colab`
+
 ---
 
 ### FTTH Network Implementation
@@ -139,6 +144,7 @@ The project covers the basic structure of fiber optic networks, network topology
 **Rekayasa Perangkat Lunak (RPL)**
 2020 – 2023
 
+
 ## 📫 Let's Connect
 
 <p align="center">
@@ -164,3 +170,4 @@ The project covers the basic structure of fiber optic networks, network topology
 </p>
 ini perbaiki biar g ai banget latar belakang nya tambahin baground skyblue 
 jnagn ubah tata letak ataupun garis nya tapi hapus saja emoticon yang tidak diperlukan
+ini kekny di pendekin aja deh bagian sertifikat apus aja g si kn udah ada creedly
