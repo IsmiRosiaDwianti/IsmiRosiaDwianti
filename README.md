@@ -12,8 +12,6 @@ I have experience working with **Python, Django, HTML, CSS, JavaScript, Laravel,
 
 I'm interested in developing practical technology solutions, especially projects that combine **web systems, IoT, automation, and data processing**.
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Web
@@ -36,7 +34,6 @@ I'm interested in developing practical technology solutions, especially projects
 
 **Networking:** Cisco Packet Tracer · MikroTik · FTTH · LAN · Routing · Switching
 
----
 
 ## 🚀 Featured Projects
 
@@ -110,7 +107,6 @@ The project covers the basic structure of fiber optic networks, network topology
 * ☁️ Cloud Computing
 * 🔧 Git & GitHub
 
----
 
 ## 🎓 Education
 
@@ -124,7 +120,6 @@ The project covers the basic structure of fiber optic networks, network topology
 **Rekayasa Perangkat Lunak (RPL)**
 2020 – 2023
 
----
 
 ## 📜 Certifications
 
@@ -136,7 +131,6 @@ The project covers the basic structure of fiber optic networks, network topology
 * **AWS Academy Graduate – Cloud Foundations** — AWS Academy
 * **AWS Academy Graduate – Cloud Architecting** — AWS Academy
 
----
 
 ## 📫 Let's Connect
 
@@ -152,8 +146,7 @@ The project covers the basic structure of fiber optic networks, network topology
   </a>
 </p>
 
----
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
+   Thanks for visiting my GitHub profile!
 </p>
